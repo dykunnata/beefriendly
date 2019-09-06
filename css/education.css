@@ -365,6 +365,7 @@ img#polygons {
   #leaves {
     background-size: 100%;
 }
+  }
 
   /* FOOTER */
 
@@ -471,3 +472,4 @@ a.beinvolved {
 a.beinvolved:hover {
     color: white;
 }
+
