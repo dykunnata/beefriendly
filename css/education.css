@@ -130,7 +130,7 @@ img#event-image {
 
   #leaves {
       background: url(../photobees/leaves2.jpg);
-      width: 100%;
+      background-size: 100%;
       height: 150vh;
       background-repeat: no-repeat;
       margin-top: -300px;
