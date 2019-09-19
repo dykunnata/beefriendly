@@ -126,6 +126,10 @@ body {
     background-color: #FCFAF4 !important;
 }
 
+li.nav-item {
+    padding: 0 10px;
+}
+
 /* Header Content */
 .bees-header-content {
     position: relative;

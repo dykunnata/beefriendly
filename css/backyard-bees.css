@@ -1,3 +1,8 @@
+
+li.nav-item {
+    padding: 0 10px;
+}
+
 .bees-backyard-jumbo {
     background-image: url(../images/BackyardBeesBG.png);
     background-size: cover;

@@ -1,3 +1,7 @@
+li.nav-item {
+    padding: 0 10px;
+}
+
 .bees-sanc-jumbo {
     background-image: url(../images/BeeSancHeader.png);
     background-size: cover;
